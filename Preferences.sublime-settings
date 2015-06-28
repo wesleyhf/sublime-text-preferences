@@ -1,17 +1,18 @@
 {
+	"always_show_minimap_viewport": true,
 	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"fade_fold_buttons": false,
-	"font_size": 10,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-	"line_padding_bottom": 10,
-	"line_padding_top": 10,
+	"line_padding_bottom": 9,
+	"line_padding_top": 9,
 	"scroll_past_end": false,
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
