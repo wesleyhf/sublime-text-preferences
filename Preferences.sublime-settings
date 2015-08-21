@@ -13,6 +13,7 @@
 	],
 	"line_padding_bottom": 9,
 	"line_padding_top": 9,
+	"material_theme_accent_lime": true,
 	"scroll_past_end": false,
 	"tab_size": 4,
 	"theme": "Material-Theme.sublime-theme",
