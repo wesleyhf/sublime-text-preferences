@@ -3,7 +3,6 @@
 __Material Design Theme: [Material Theme for Sublime Text 3][1]__
 
 * Install Material Design Theme
-* [Material Design in Package Control][2]
 
 __User Preferences: [Preferences.sublime-settings][3]__
 
