@@ -15,13 +15,12 @@
 	"line_padding_bottom": 13,
 	"line_padding_top": 13,
 	"material_theme_bright_scrollbars": true,
-	"material_theme_bullet_tree_indicator": true,
+	"remember_full_screen": true,
 	"scroll_past_end": false,
 	"shift_tab_unindent": true,
 	"show_tab_close_buttons": false,
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	"remember_full_screen": true,
+	"word_wrap": false
 }
